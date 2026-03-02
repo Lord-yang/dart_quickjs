@@ -1,7 +1,7 @@
 name: dart_quickjs
 description: QuickJS-ng JavaScript engine bindings for Dart/Flutter.
 version: 1.0.0
-repository: https://github.com/xiaoyaocz/dart_quickjs
+repository: https://github.com/Lord-yang/dart_quickjs
 publish_to: none
 
 environment:
@@ -15,7 +15,7 @@ dependencies:
   hooks: ^1.0.0
   native_toolchain_c:
     git:
-      url: https://github.com/xiaoyaocz/dart_quickjs.git
+      url: https://github.com/Lord-yang/dart_quickjs.git
       ref: main
       path: packages/native_toolchain_c
 dev_dependencies:
